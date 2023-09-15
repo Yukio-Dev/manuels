@@ -6,8 +6,14 @@ html{
 justify-content: center;
 text-align: center;
 background-color: rgb(24, 24, 24);
-
+background-image: url("back2.png");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-position-y: 0;
 }
+
+
 
 
 header{
